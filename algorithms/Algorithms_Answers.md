@@ -2,15 +2,15 @@ Add your answers to the Algorithms exercises here.
 
 ### Exercise I.
 
-a) O(n^2)
+a) O(n^2) //actaully O(n)
 
 b) O(log n)
 
-c) O(log n)
+c) O(log n) //actually O(sqrt(n))
 
 d) O(n^2)
 
-e) O(n^2)
+e) O(n^2) //actaully O(n^3)
 
 f) O(n)
 
